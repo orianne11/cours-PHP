@@ -1,0 +1,43 @@
+/********************************************/
+/*Style principale du site atelier html/css*/
+/********************************************/
+
+
+/* MENU
+
+1. General
+2. Navbar
+   2.1 Navbar Top
+3. Body
+4. Footer
+
+*/
+
+/*******
+1. General
+*******/
+html{
+
+
+}
+body{
+
+
+}
+div{
+
+
+}
+
+/*******
+2. Navbar
+*******/
+/*2.1 Navbar Top*/
+.nav_top li{
+	display: inline;
+	list-style: none;
+	margin: 10px;
+}
+
+
+
